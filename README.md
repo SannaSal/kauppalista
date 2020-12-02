@@ -1,2 +1,4 @@
-# kauppalista
-Minun oma kauppalistani, jotta muistan mitä ostaa
+# Kauppalista
+
+
+Minun oma kauppalistani, jotta muistan mitä ostaa.
